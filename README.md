@@ -4,6 +4,15 @@
   <img src="images/image_1.jpeg" width="600">
 </p>
 
+<p align="center">
+  <a href="https://github.com/murilobispo">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://dev.to/murilobispo">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
+  </a>
+</p>
+
 **Operating Systems:** Ubuntu 24.04 LTS & Windows 11
 **Hardware:** Dell G15 5525
 
